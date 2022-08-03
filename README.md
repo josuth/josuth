@@ -1,9 +1,5 @@
 ### Hi 👋
 
-<a href=”https://www.linkedin.com/in/jos%C3%A9-antonio-torralba-herv%C3%A1s-5a5270149/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
-
-<a href=”https://twitter.com/jatorralbadev">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
-
 <!--
 **josuth/josuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
