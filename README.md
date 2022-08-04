@@ -1,4 +1,18 @@
-### Hi 👋
+[](img/banner-hello.jpg)
+<img src="https://raw.githubusercontent.com/josuth/josuth/main/img/banner-hello.jpg" width="100%" alt="header" border="0" />
+
+Ingeniero Informático en constante reciclaje. 
+
+Me interesan muchas cosas aunque especialmente:
+- [X] Arquitectura Software
+- [X] El mundo Agile
+- [X] Java
+
+Cuando no estoy entre código, me gusta la bici y la fotografía (y si son las dos cosas, mejor)
+
+## Puedes encontrarme en 
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-antonio-torralba-herv%C3%A1s-5a5270149/)
+- [Twitter](https://twitter.com/jatorralbaDev)
 
 <!--
 **josuth/josuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
