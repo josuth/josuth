@@ -1,12 +1,13 @@
 [](img/banner-hello.jpg)
 <img src="https://raw.githubusercontent.com/josuth/josuth/main/img/banner-hello.jpg" width="100%" alt="header" border="0" />
 
-Ingeniero Informático en constante reciclaje. 
+Ingeniero Informático en constante reciclaje.
+ 
+Como desarrollador, me interesa especialmente la arquitectura software, el mundo Java, el código limpio y las buenas prácticas (refactorizar sin fin 😅)
 
-Me interesan muchas cosas aunque especialmente:
-- [X] Arquitectura Software
-- [X] El mundo Agile
-- [X] Java
+Actualmente estoy investigando sobre:
+- [X] DDD y Arquitectura Hexagonal 
+- [X] Apache Kafka
 
 Cuando no estoy entre código, me gusta la bici y la fotografía (y si son las dos cosas, mejor)
 
