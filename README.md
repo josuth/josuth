@@ -1,4 +1,3 @@
-[](img/banner-hello.jpg)
 <img src="https://raw.githubusercontent.com/josuth/josuth/main/img/banner-hello.jpg" width="100%" alt="header" border="0" />
 
 Ingeniero Informático en constante reciclaje. <i>Refactoring myself endless</i>.
